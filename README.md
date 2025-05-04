@@ -10,5 +10,4 @@ I created detailed 3D models with realistic rendering to showcase product featur
 
 ![WS-2-02_gif (2)](https://github.com/user-attachments/assets/ee891dfc-c6ad-4944-a586-c9af384fc3de) <br>
 
-**_Note: The visual quality of this Gif has been somewhat reduced due to file compression necessary for this Github page integration._** <br>
 This visualization approach enhances technical documentation by giving users a complete understanding of product design and functionality before physical interaction.
